@@ -1,0 +1,70 @@
+*{
+    font-size: 18px;
+}
+h2{
+    font-size: 24px;
+}
+.main-container{
+    display: flex;
+}
+img{
+    width: 60%;
+    border: solid 1px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
+#Nombre{
+    text-align: center;
+    background-color: aquamarine;   
+}
+#Nombre h1{
+    padding: 10px;
+    padding-top: 50px;
+    margin: 0;
+    font-size: 45px;
+}
+#Nombre h2{
+    padding: 30px;
+    padding-top: 20px;
+    margin: 0;
+    font-size: 30px;
+}
+main{
+    width: -webkit-fill-available
+}
+#main{
+    padding: 50px;
+    padding-right: 0;
+}
+.primero{
+    background-color: aquamarine;
+    width: 40%;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+main p{
+    margin-inline-start: 2.5em;
+}
+#descripcion{
+    padding: 19px;
+    padding-left: 0;
+    font-size: 20px;
+}
+#uno{
+    display: block;
+}
+#uno ul{
+    font-weight: bold;
+}
+#dos{
+    display: none;
+}
+button{
+    margin-bottom: 50px;
+    border: none;
+    padding: 25px 118px;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 5px;
+}
